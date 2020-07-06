@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Sobre
 
-O projeto consiste de uma calculadora funcional que abrange as operações fundamentais da matemática, como: adição, subtração, divisão e multiplicação.
+O projeto consiste de uma calculadora que abrange as operações fundamentais da matemática, como: adição, subtração, divisão e multiplicação.
 
 ## :memo: Licença
 
